@@ -1,7 +1,6 @@
 import { Button } from "@material-tailwind/react";
 import { StaticImage } from "gatsby-plugin-image";
 import React from "react";
-import toothExtractionPic from "../../../../static/img/tooth-extraction.jpg";
 
 const ClearAlignersBaner = () => {
   return (
@@ -9,8 +8,8 @@ const ClearAlignersBaner = () => {
       <StaticImage
         layout="fullWidth"
         className="h-screen"
-        // src="https://res.cloudinary.com/db1i46uiv/image/upload/v1696534267/HP-1.png_pnuzdd.webp"
-        src={toothExtractionPic}
+        src="https://img.freepik.com/free-photo/young-patient-black-goggles-getting-her-teeth-treated-by-female-hygienist-using-dental-curing-light_343059-402.jpg?w=740&t=st=1702155853~exp=1702156453~hmac=728513557af9ed6b10199b50b8ec885062ae7d338bb9ad184946b10f4c17546e"
+        // src={toothExtractionPic}
         alt="Whitening Banner"
       />
       <div className="absolute lg:left-28 left-1/2 -translate-x-1/2 lg:translate-x-0 top-1/2 text-white -translate-y-1/2 z-[2]">
