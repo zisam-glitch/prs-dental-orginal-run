@@ -31,6 +31,9 @@ const PrivateFees = () => {
         <h2 className="text-center text-5xl my-2 capitalize font-semibold text-primary">
         Parish Dental Pricing
       </h2>
+      <h2 className="text-center text-xl my-2 capitalize text-primary">
+      Special Announcement from Parish Dental <br /> At Parish Dental, we take immense pride in being recognized as the market leader in dental pricing. Our dedication to offering top-notch dental services at the most competitive rates is unwavering. <br />Our Price Match Promise <br />We're committed to providing not only the best dental care but also the best value. Therefore, we guarantee to beat the price of any dental treatment offered by our competitors. Just present us with a written quote from another provider, and we will offer you a better price.<br/>Choose Parish Dental for:<br/>Affordable Excellence: We ensure that superior dental care is accessible to everyone.<br/>Comprehensive Care: From routine check-ups to advanced treatments, we offer a wide range of dental services.<br/>Trusted Expertise: Our team of skilled dental professionals is dedicated to your oral health.<br/>
+      </h2>
 
           <div className="mt-3">
             <PrivateFeeFiltered category={null} />
