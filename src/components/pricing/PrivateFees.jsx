@@ -58,21 +58,56 @@ const PrivateFees = () => {
 
           <div className="mt-3">
             <div>
+              <h3 className="text-primary font-semibold text-2xl mt-8 mb-2"></h3>
+
+              <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-2xl text-primary font-semibold my-4 w-3/5 max-w-[600px] ">
+                    Patient Examination{" "}
+                  </h5>
+                  <p className="text-base lg:text-lg text-primary font-semibold w-2/5">
+                    £35
+                  </p>
+                </div>
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                    Same Day Emergency
+                    Visit                                           {" "}
+                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    £45 in hours FROM £90 out of hours{" "}
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div>
               <h3 className="text-primary font-semibold text-2xl mt-8 mb-2">
                 Periodontal / Gum Treatment{" "}
               </h3>
 
-              <div
-                className="flex justify-between items-center"
-              >
+              <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                  Scale & Polish                    </h5>
+                    Scale & Polish  {" "}
+                  </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
                     £50
                   </p>
                 </div>
-                
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  Periodontal (gum) treatment per quadrant                   </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    £60
+                  </p>
+                </div>
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  air flow Cosmetic stain Removal                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    £75
+                  </p>
+                </div>
               </div>
             </div>
             <PrivateFeeFiltered category={null} />
