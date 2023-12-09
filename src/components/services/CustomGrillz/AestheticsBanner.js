@@ -18,7 +18,7 @@ const AestheticsBanner = () => {
         </h3>
         <div className="border-b mb-6 max-w-[300px] mx-auto"></div>
         <h1 className="font-bold text-4xl lg:text-6xl mb-5 whitespace-normal xl:whitespace-nowrap">
-          Custom Grillz Crafted for Stardom
+          Custom Grillz and Tooth Gems Crafted for Stardom
         </h1>
         <p className="text-base lg:text-2xl">
           Expert in Custom Grillz for Entertainment Industry

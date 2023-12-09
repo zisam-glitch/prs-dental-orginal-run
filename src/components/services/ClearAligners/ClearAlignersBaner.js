@@ -8,7 +8,7 @@ const ClearAlignersBaner = () => {
       <StaticImage
         layout="fullWidth"
         className="h-screen"
-        src="https://img.freepik.com/free-photo/young-patient-black-goggles-getting-her-teeth-treated-by-female-hygienist-using-dental-curing-light_343059-402.jpg?w=740&t=st=1702155853~exp=1702156453~hmac=728513557af9ed6b10199b50b8ec885062ae7d338bb9ad184946b10f4c17546e"
+        src="https://res.cloudinary.com/db1i46uiv/image/upload/c_scale,w_1305/v1702155938/young-patient-black-goggles-getting-her-teeth-treated-by-female-hygienist-using-dental-curing-light_hclxe9.jpg"
         // src={toothExtractionPic}
         alt="Whitening Banner"
       />

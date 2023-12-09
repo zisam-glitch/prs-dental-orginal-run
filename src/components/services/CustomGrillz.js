@@ -16,10 +16,11 @@ const FacialAesthetics = () => {
         <AestheticsTestimonial />
         <OurValues />
         <QualityProducts />
-        <Contact />{" "}
         <div className="mb-5">
           <HomeBanner />
         </div>
+        <Contact />{" "}
+        
       </div>
     </>
   );

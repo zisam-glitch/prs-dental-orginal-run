@@ -23,10 +23,11 @@ const FacialAesthetics = () => {
         <ThingsToKnow />
         <KeepingSafe />
         <TreatmentFaq />
-        <Contact />{" "}
         <div className="mb-5">
           <HomeBanner />
         </div>
+        <Contact />{" "}
+       
       </div>
     </>
   );

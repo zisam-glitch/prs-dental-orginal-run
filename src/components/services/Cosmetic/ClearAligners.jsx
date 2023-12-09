@@ -22,10 +22,11 @@ const ClearAligners = () => {
           </p>
         </div>
       </section>
-      <ContactInfo />
       <div className="mb-5">
         <HomeBanner />
       </div>
+      <ContactInfo />
+      
     </>
   );
 };
