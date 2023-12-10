@@ -76,15 +76,7 @@ const PrivateFees = () => {
                     Same Day Emergency Visit
                   </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
-                    £45 in hours{" "}
-                  </p>
-                </div>
-              </div>
-              <div className="flex justify-between items-center">
-                <div className="flex justify-between items-center w-full border-b">
-                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] "></h5>
-                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
-                    FROM £90 out of hours
+                    £45 in hours,  FROM £90 out of hours
                   </p>
                 </div>
               </div>
