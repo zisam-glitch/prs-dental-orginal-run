@@ -84,11 +84,10 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                                                     {" "}
+                                                        {" "}
                   </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
-                  FROM £90 out of
-                    hours      
+                    FROM £90 out of hours      
                   </p>
                 </div>
               </div>
@@ -111,7 +110,8 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                  Periodontal (gum) treatment per quadrant                   </h5>
+                    Periodontal (gum) treatment per quadrant {" "}
+                  </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
                     £60
                   </p>
@@ -120,13 +120,236 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                  air flow Cosmetic stain Removal                  </h5>
+                    air flow Cosmetic stain Removal{" "}
+                  </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
                     £75
                   </p>
                 </div>
               </div>
             </div>
+            <div>
+              <h3 className="text-primary font-semibold text-2xl mt-8 mb-2">
+                Fillings / Bonding{" "}
+              </h3>
+
+              <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                    Composite (white) Fillings{" "}
+                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5"></p>
+                </div>
+              </div>
+              <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                    Basic Composite (white) Fillings{" "}
+                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    £140
+                  </p>
+                </div>
+              </div>
+              <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                    Intermediate Composite (white) Fillings{" "}
+                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    £195
+                  </p>
+                </div>
+              </div>
+              <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                    Advanced Composite (white) Fillings{" "}
+                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    £295
+                  </p>
+                </div>
+              </div>
+              <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                    Composite Bonding{" "}
+                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    from £140
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div>
+              <h3 className="text-primary font-semibold text-2xl mt-8 mb-2">
+                Root Canal Treatment{" "}
+              </h3>
+
+              <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                    Standard Root Canal Treatment
+                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    £195
+                  </p>
+                </div>
+              </div>
+              <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                    Intermediate Root Canal Treatment{" "}
+                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    £295
+                  </p>
+                </div>
+              </div>
+              <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center w-full border-b">
+                  <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                    Advanced Root canal Treatment{" "}
+                  </h5>
+                  <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                    £495
+                  </p>
+                </div>
+              </div>
+            </div>
+            <h3 className="text-primary font-semibold text-2xl mt-8 mb-2">
+              Extractions{" "}
+            </h3>
+
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  Simple Extraction{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £140
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  Intermediate Extraction{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £195
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  Complex Extraction{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £295
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  Treatment of Dry Socket{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £35
+                </p>
+              </div>
+            </div>
+          </div>
+          <div>
+            <h3 className="text-primary font-semibold text-2xl mt-8 mb-2">
+              Crown & Bridge{" "}
+            </h3>
+
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  metal crown{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £350
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  Metal Ceramic (white) Crown {" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £400
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  all ceramic crown   Emax/Zirconia{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £495
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  Full Gold Crown{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £700
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  bridge per unit{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £300
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  Composite Inlay (white) {" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £300
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  Porcelain Veneer{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £495
+                </p>
+              </div>
+            </div>
+            <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center w-full border-b">
+                <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
+                  crown/ bridge recementation{" "}
+                </h5>
+                <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
+                  £60
+                </p>
+              </div>
+            </div>
+          </div>
+          <div>
             <PrivateFeeFiltered category={null} />
             <PrivateFeeFiltered category="White Filling" />
             <PrivateFeeFiltered category="Root Canal" />
