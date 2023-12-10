@@ -53,11 +53,11 @@ const Services2 = () => {
                   </div>
                   <div className="bg-white  p-5 relative pr-3">
                     <div className="absolute top-0 -translate-y-1/2  bg-white rounded shadow w-20 h-20 p-3">
-                      {/* <img
+                      <img
                         className="object-contain"
                         src={service?.icon?.url}
                         alt=""
-                      /> */}
+                      />
                     </div>
                     <h5 className="text-2xl text-primary font-medium mt-10">
                       {service?.name}
