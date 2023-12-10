@@ -12,7 +12,6 @@ import GeneralDentistry from "../../components/services/GeneralDentistry/ClearAl
 import Cosmetic from "../../components/services/Cosmetic/ClearAligners";
 import { GatsbyImage } from "gatsby-plugin-image";
 import EmergencyDentistry from "../../components/services/EmergencyDentistry/EmergencyDentistry";
-import Register from "../register"
 
 const ServicesSinglePage = ({ data }) => {
   const { name, image, description } = data.contentfulServices;
@@ -45,8 +44,6 @@ const ServicesSinglePage = ({ data }) => {
       {slug === "whitening" ? <Whitening /> : <NotFoundPage />}
       {slug === "custom-grillz" ? <CustomGrillz /> : <NotFoundPage />}
       {slug === "emergency-dental" ? <EmergencyDentistry /> : <NotFoundPage />}
-      {/* {slug === "nhs-register" ? <Register /> : <NotFoundPage />} */}
-
     </Layout>
   );
 };
