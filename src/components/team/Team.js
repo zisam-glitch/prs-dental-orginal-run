@@ -69,6 +69,14 @@ const Team = () => {
             />
             <div></div>
           </div>
+          <div>
+            <a
+              className="text-primary text-lg font-semibold p-10 "
+              href="/about"
+            >
+              About Us
+            </a>
+          </div>
         </div>
         <div className="my-10">
           <SectionHeader
