@@ -27,29 +27,8 @@ const PrivateFees = () => {
   return (
     <>
       <section className="w-full bg-white">
-      <div className="py-24 mx-auto container px-10 >
-        <h2 className="text-center text-5xl my-2 capitalize font-semibold text-secondary">
-          Special Announcement from Parish Dental{" "}
-        </h2>
-        <h2 className="text-center text-xl my-2 text-primary">
-          At Parish Dental, we take immense pride in being recognized as the
-          market leader in dental pricing. Our dedication to offering top-notch
-          dental services at the most competitive rates is unwavering. Our Price
-          Match Promise We're committed to providing not only the best dental
-          care but also the best value. Therefore, we guarantee to beat the
-          price of any dental treatment offered by our competitors. Just present
-          us with a written quote from another provider, and we will offer you a
-          better price.
-          <b className="text-primary">Choose Parish Dental for: </b>
-          <b>Affordable Excellence:</b> We ensure that superior dental care is
-          accessible to everyone.
-          <b>Comprehensive Care:</b> From routine check-ups to advanced
-          treatments, we offer a wide range of dental services.
-          <b>Trusted Expertise:</b> Our team of skilled dental professionals is
-          dedicated to your oral health.
-          <br />
-        </h2>
-        </div>
+
+      
         <div className="py-24 mx-auto container px-10 ">
           <h2 className="text-center text-5xl my-2 capitalize font-semibold text-primary">
             Parish Dental Pricing
@@ -659,6 +638,7 @@ const PrivateFees = () => {
             {/* <PrivateFeeFiltered category="Other Items" /> */}
           </div>
         </div>
+
       </section>
     </>
   );
