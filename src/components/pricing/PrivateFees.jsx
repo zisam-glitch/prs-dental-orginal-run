@@ -27,33 +27,30 @@ const PrivateFees = () => {
   return (
     <>
       <section className="w-full bg-white">
+        <h2 className="text-center text-5xl my-2 capitalize font-semibold text-primary">
+          Special Announcement from Parish Dental{" "}
+        </h2>
+        <h2 className="text-center text-xl my-2 text-primary">
+          At Parish Dental, we take immense pride in being recognized as the
+          market leader in dental pricing. Our dedication to offering top-notch
+          dental services at the most competitive rates is unwavering. Our Price
+          Match Promise We're committed to providing not only the best dental
+          care but also the best value. Therefore, we guarantee to beat the
+          price of any dental treatment offered by our competitors. Just present
+          us with a written quote from another provider, and we will offer you a
+          better price.
+          <b className="text-primary">Choose Parish Dental for: </b>
+          <b>Affordable Excellence:</b> We ensure that superior dental care is
+          accessible to everyone.
+          <b>Comprehensive Care:</b> From routine check-ups to advanced
+          treatments, we offer a wide range of dental services.
+          <b>Trusted Expertise:</b> Our team of skilled dental professionals is
+          dedicated to your oral health.
+          <br />
+        </h2>
         <div className="py-24 mx-auto container px-10 ">
           <h2 className="text-center text-5xl my-2 capitalize font-semibold text-primary">
             Parish Dental Pricing
-          </h2>
-          <h2 className="text-center text-xl my-2 capitalize text-primary">
-            Special Announcement from Parish Dental <br /> At Parish Dental, we
-            take immense pride in being recognized as the market leader in
-            dental pricing. Our dedication to offering top-notch dental services
-            at the most competitive rates is unwavering. <br />
-            Our Price Match Promise <br />
-            We're committed to providing not only the best dental care but also
-            the best value. Therefore, we guarantee to beat the price of any
-            dental treatment offered by our competitors. Just present us with a
-            written quote from another provider, and we will offer you a better
-            price.
-            <br />
-            Choose Parish Dental for:
-            <br />
-            Affordable Excellence: We ensure that superior dental care is
-            accessible to everyone.
-            <br />
-            Comprehensive Care: From routine check-ups to advanced treatments,
-            we offer a wide range of dental services.
-            <br />
-            Trusted Expertise: Our team of skilled dental professionals is
-            dedicated to your oral health.
-            <br />
           </h2>
 
           <div className="mt-3">
@@ -76,7 +73,7 @@ const PrivateFees = () => {
                     Same Day Emergency Visit
                   </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
-                    £45 in hours,  FROM £90 out of hours
+                    £45 in hours, FROM £90 out of hours
                   </p>
                 </div>
               </div>
@@ -420,7 +417,7 @@ const PrivateFees = () => {
                     Fluoride Varnish Application {" "}
                   </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
-                     £5
+                    £5
                   </p>
                 </div>
               </div>
@@ -435,7 +432,8 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                  Tooth Whitening                    </h5>
+                    Tooth Whitening {" "}
+                  </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
                     £300
                   </p>
@@ -444,7 +442,8 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                  top up gels                  </h5>
+                    top up gels{" "}
+                  </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
                     £60
                   </p>
@@ -453,7 +452,8 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                  Bite Guard                   </h5>
+                    Bite Guard{" "}
+                  </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
                     £99
                   </p>
@@ -462,7 +462,8 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                  Sports Guard                     </h5>
+                    Sports Guard {" "}
+                  </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
                     £99
                   </p>
@@ -471,7 +472,8 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                  antibiotic prescription                  </h5>
+                    antibiotic prescription{" "}
+                  </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
                     £25
                   </p>
@@ -480,7 +482,8 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                  Clear aligners                 </h5>
+                    Clear aligners{" "}
+                  </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
                     from £1995
                   </p>
