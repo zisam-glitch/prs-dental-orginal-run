@@ -122,7 +122,15 @@ const WhyChooseUs = () => {
           </div>
         </div>
         <div className="w-full my-14">
-          <video src={aboutVideo} className="w-full" controls autoplay></video>
+        <iframe
+            className="w-full"
+            height="700px"
+            src="https://www.youtube.com/embed/tSeCSNEDl3g?si=s_xNx0s7SezBxk6H"
+            title="About Parish Dental"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
       </section>
     </>
