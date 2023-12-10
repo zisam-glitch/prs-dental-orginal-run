@@ -45,7 +45,7 @@ const ServicesSinglePage = ({ data }) => {
       {slug === "whitening" ? <Whitening /> : <NotFoundPage />}
       {slug === "custom-grillz" ? <CustomGrillz /> : <NotFoundPage />}
       {slug === "emergency-dental" ? <EmergencyDentistry /> : <NotFoundPage />}
-      {slug === "register" ? <Register /> : <NotFoundPage />}
+      {slug === "nhs-register" ? <Register /> : <NotFoundPage />}
 
     </Layout>
   );
