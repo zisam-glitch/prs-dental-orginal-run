@@ -191,10 +191,10 @@ const ClearAlignersBaner = () => {
       <div className="tab1 pt-16">
         <h1 className="blue text-3xl t-style-2	pb-6">Educational Videos</h1>
         <div className="grid md:grid-cols-2 gap-4">
-          <iframe
+        <iframe
             className="w-full"
             height="300px"
-            src="https://www.youtube.com/embed/xfOkCHG49FU?si=xQqj0nSex6NxaTBc"
+            src="https://www.youtube.com/embed/jJaPPNv8fVM?si=mAdEPB2X4xENA1Zk"
             title="About Parish Dental"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -203,7 +203,7 @@ const ClearAlignersBaner = () => {
           <iframe
             className="w-full"
             height="300px"
-            src="https://www.youtube.com/embed/tSeCSNEDl3g"
+            src="https://www.youtube.com/embed/kdF9k_YbbgM?si=-GWoIZTLtnoRtkLz"
             title="About Parish Dental"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -212,7 +212,7 @@ const ClearAlignersBaner = () => {
           <iframe
             className="w-full"
             height="300px"
-            src="https://www.youtube.com/embed/tSeCSNEDl3g"
+            src="https://www.youtube.com/embed/EqRQfIcw1y0?si=YvkYvaBNoTXbeVFy"
             title="About Parish Dental"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -221,7 +221,7 @@ const ClearAlignersBaner = () => {
           <iframe
             className="w-full"
             height="300px"
-            src="https://www.youtube.com/embed/tSeCSNEDl3g"
+            src="https://www.youtube.com/embed/mk0mneumVJo?si=A361cq2vRD8Xk92U"
             title="About Parish Dental"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
