@@ -131,7 +131,7 @@ const ClearAlignersBaner = () => {
           <iframe
             className="w-full"
             height="300px"
-            src="https://www.youtube.com/embed/tSeCSNEDl3g"
+            src="https://www.youtube.com/embed/xfOkCHG49FU?si=xQqj0nSex6NxaTBc"
             title="About Parish Dental"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

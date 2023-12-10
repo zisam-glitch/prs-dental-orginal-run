@@ -27,7 +27,8 @@ const PrivateFees = () => {
   return (
     <>
       <section className="w-full bg-white">
-        <h2 className="text-center text-5xl my-2 capitalize font-semibold text-primary">
+      <div className="py-24 mx-auto container px-10 >
+        <h2 className="text-center text-5xl my-2 capitalize font-semibold text-secondary">
           Special Announcement from Parish Dental{" "}
         </h2>
         <h2 className="text-center text-xl my-2 text-primary">
@@ -48,6 +49,7 @@ const PrivateFees = () => {
           dedicated to your oral health.
           <br />
         </h2>
+        </div>
         <div className="py-24 mx-auto container px-10 ">
           <h2 className="text-center text-5xl my-2 capitalize font-semibold text-primary">
             Parish Dental Pricing
