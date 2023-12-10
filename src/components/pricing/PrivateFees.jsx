@@ -84,11 +84,11 @@ const PrivateFees = () => {
               <div className="flex justify-between items-center">
                 <div className="flex justify-between items-center w-full border-b">
                   <h5 className="text-base lg:text-xl text-gray-600 my-4 w-3/5 max-w-[600px] ">
-                    FROM £90 out of
-                    hours                                          {" "}
+                                                     {" "}
                   </h5>
                   <p className="text-base lg:text-lg text-secondary font-medium w-2/5">
-                    £45 in hours{" "}
+                  FROM £90 out of
+                    hours      
                   </p>
                 </div>
               </div>
