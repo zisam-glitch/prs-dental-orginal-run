@@ -7,7 +7,7 @@ import "swiper/swiper.min.css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 
-import { Autoplay, SwiperSlide,  Mousewheel, Keyboard } from "swiper";
+import { Autoplay,  Mousewheel, Keyboard } from "swiper";
 
 
 export default function App() {
