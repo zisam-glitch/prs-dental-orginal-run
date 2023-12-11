@@ -15,7 +15,7 @@ export default function App() {
     <>
       <Swiper
         autoplay={{
-          delay: 5000,
+          delay: 300,
         }}
         cssMode={true}
         mousewheel={true}
@@ -25,28 +25,28 @@ export default function App() {
         className="mySwiper"
       >
         <SwiperSlide>
-         <img className="" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
+         <img className=" px-4" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-         <img className="" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
+         <img className="px-4" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-         <img className="" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
+         <img className="px-4" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-         <img className="" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
+         <img className="px-4" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-         <img className="" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
+         <img className="px-4" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-         <img className="" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
+         <img className="px-4" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-         <img className="" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
+         <img className="px-4" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-         <img className="" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
+         <img className="px-4" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Bupa_logo.svg/800px-Bupa_logo.svg.png?20180213120730" alt="" />
         </SwiperSlide>
       </Swiper>
     </>
