@@ -56,7 +56,7 @@ const Team = () => {
           <div className="my-5 grid  grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 ">
             <div></div>
             <TeamCard
-              name={"Dr Pavan Amar Singh Bhogal"}
+              name={"Dr Pavan Amar Singh Bhogal MBA"}
               imageWithUrl={true}
               image={
                 "https://res.cloudinary.com/db1i46uiv/image/upload/v1697918420/WhatsApp_Image_2023-10-22_at_01.49.06_80aa571f_oaukua.jpg"
@@ -71,7 +71,7 @@ const Team = () => {
           </div>
           <div>
             <a
-              className="text-primary text-lg font-semibold p-10 "
+              className="text-primary text-center text-lg font-semibold p-10 "
               href="/about"
             >
               About Us

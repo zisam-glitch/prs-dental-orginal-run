@@ -3,6 +3,8 @@ import Layout from "../components/global/Layout";
 import PageHeader from "../components/global/PageHeader";
 import NhsCharges from "../components/pricing/NhsCharges";
 import PrivateFees from "../components/pricing/PrivateFees";
+import Insurence from "../components/pricing/Insurence.jsx";
+
 import DynamicSeo from "../components/global/DynamicSeo";
 
 const PricingPage = ({ location }) => {
@@ -26,6 +28,7 @@ const PricingPage = ({ location }) => {
       <PageHeader pageTitle="Pricing" />
       <NhsCharges />
       <PrivateFees />
+      <Insurence/>
     </Layout>
   );
 };
