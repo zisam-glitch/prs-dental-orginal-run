@@ -45,9 +45,9 @@ const Insurence = () => {
             services.
             <br />
             <b className="text-primary">Trusted Expertise: </b> Our team of
-            skilled dental professionals is dedicated to your oral health.Visit
+            skilled dental professionals is dedicated to your oral health. Visit
             us at Parish Dental for your dental needs, and experience first-hand
-            our commitment to affordability and quality care.
+            our commitment to affordability and quality care.
           </p>
         </div>
       </div>
