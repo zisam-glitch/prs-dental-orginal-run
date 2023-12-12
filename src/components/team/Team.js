@@ -69,7 +69,7 @@ const Team = () => {
             />
             <div></div>
           </div>
-          <div>
+          <div className="text-center">
             <a
               className="text-primary text-center text-lg font-semibold p-10 "
               href="/about"
