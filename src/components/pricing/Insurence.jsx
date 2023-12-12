@@ -12,7 +12,7 @@ const Insurence = () => {
           <Slide />
         </div>
         <div className="py-10">
-          <h3 className="text-xl text-primary font-semibold my-2 pb-4  ">
+          <h3 className="text-xl text-primary font-semibold my-2 pb-2  ">
             Special Announcement from Parish Dental
           </h3>
           <p className="text-secondary text-lg  my-2 pb-8">
@@ -22,7 +22,7 @@ const Insurence = () => {
             unwavering.
           </p>
 
-          <h3 className="text-xl text-primary font-semibold my-2 pb-4  ">
+          <h3 className="text-xl text-primary font-semibold my-2 pb-2  ">
             Our Price Match Promise
           </h3>
           <p className="text-secondary text-lg  my-2 pb-8">
@@ -33,7 +33,7 @@ const Insurence = () => {
             price.
           </p>
 
-          <h3 className="text-xl text-primary font-semibold my-2 pb-4  ">
+          <h3 className="text-xl text-primary font-semibold my-2 pb-2  ">
             Choose Parish Dental for:
           </h3>
           <p className="text-secondary text-lg  my-2 pb-8">
