@@ -789,3 +789,7 @@ details > summary::-webkit-details-marker {
   position: absolute;
   bottom: 20%;
 }
+.swiper-wrapper{
+  justify-content: center;
+  align-items: center;
+}

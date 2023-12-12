@@ -22,7 +22,7 @@ export default function App() {
         spaceBetween={30}
         slidesPerView={6}
         modules={[Autoplay, Mousewheel, Keyboard]}
-        className="mySwiper justify-center items-center"
+        className="mySwiper"
       >
         <SwiperSlide className="flex justify-center">
           <img
@@ -31,21 +31,21 @@ export default function App() {
             alt=""
           />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className="flex justify-center">
           <img
             className=""
             src="https://upload.wikimedia.org/wikipedia/commons/9/95/Denplan_Logo.svg"
             alt=""
           />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className="flex justify-center">
           <img
             className=""
             src="https://static.aviva.io/assets/logo/aviva-logo.svg"
             alt=""
           />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className="flex justify-center">
           <img
             className=""
             src="https://res.cloudinary.com/db1i46uiv/image/upload/v1702302131/Asset_1_uc4wy8.svg"
@@ -59,14 +59,14 @@ export default function App() {
             alt=""
           />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className="flex justify-center">
           <img
             className=""
             src="https://res.cloudinary.com/db1i46uiv/image/upload/c_crop,ar_16:9/v1702372238/freedom-hi-logo-square_m86p7r.png"
             alt=""
           />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className="flex justify-center">
           <img
             className=""
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AXA_Logo.svg/800px-AXA_Logo.svg.png"
