@@ -790,6 +790,5 @@ details > summary::-webkit-details-marker {
   bottom: 20%;
 }
 .swiper-wrapper{
-  justify-content: center;
   align-items: center;
 }
