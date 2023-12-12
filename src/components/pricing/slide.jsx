@@ -14,7 +14,7 @@ export default function App() {
     <>
       <Swiper
         autoplay={{
-          delay: 3000,
+          delay: 2000,
         }}
         cssMode={true}
         mousewheel={true}
