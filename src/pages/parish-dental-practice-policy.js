@@ -7,6 +7,94 @@ const policies = [
     name: "Accident and Incident Reporting",
     href: "/policies/Policies/Accident-and-Incident-Reporting.pdf",
   },
+  {
+    name: "Asbestos Management",
+    href: "/policies/Policies/Asbestos-Management.pdf",
+  },
+  {
+    name: "Blood Spillages",
+    href: "/policies/Policies/Blood-Spillages.pdf",
+  },
+  {
+    name: "CCTV-Policy",
+    href: "/policies/Policies/CCTV-Policy.pdf",
+  },
+  {
+    name: "Clinical Waste Disposal",
+    href: "/policies/Consent/Clinical-Waste-Disposal.pdf",
+  },
+  {
+    name: "Complaints-Policy",
+    href: "/policies/Consent/Complaints-Policy.pdf",
+  },
+  {
+    name: "Control of Substances Hazardous to Health (COSHH)",
+    href: "/policies/Consent/Control-of-Substances.pdf",
+  },
+  {
+    name: "Display Screen Equipment (DSE) Use",
+    href: "/policies/Consent/Display-Screen.pdf",
+  },
+  {
+    name: "Driving for Work",
+    href: "/policies/Consent/Driving-for-Work.pdf",
+  },
+  {
+    name: "Electrical Safety",
+    href: "/policies/Consent/ElectricalSafety.pdf",
+  },
+  {
+    name: "Environmental",
+    href: "/policies/Consent/Environmental.pdf",
+  },
+  {
+    name: "Facial Aesthetics Treatments",
+    href: "/policies/Consent/FacialAestheticsTreatments.pdf",
+  },
+  {
+    name: "Failed Appointments and Short Notice Cancellations Policy",
+    href: "/policies/Consent/Failed-Appointments-and-Short-Notice-Cancellations-Policy.pdf",
+  },
+  {
+    name: "Fire Safety",
+    href: "/policies/Consent/FireSafety.pdf",
+  },
+  {
+    name: "Fire Equipment Management",
+    href: "/policies/Consent/FireEquipmentManagement.pdf",
+  },
+  {
+    name: "Fire Alarm Response",
+    href: "/policies/Consent/FireAlarmResponse.pdf",
+  },
+  {
+    name: "First Aid and Medical Emergency",
+    href: "/policies/Consent/FirstAidandMedicalEmergency.pdf",
+  },
+  {
+    name: "Flooding Preparedness and Response",
+    href: "/policies/Consent/FloodingPreparednessandResponse.pdf",
+  },
+  {
+    name: "GDPR Policy",
+    href: "/policies/Consent/GDPR-Policy.pdf",
+  },
+  {
+    name: "Grievance Policy",
+    href: "/policies/Consent/Grievance-Policy.pdf",
+  },
+  {
+    name: "Hazard Reporting",
+    href: "/policies/Consent/HazardReporting.pdf",
+  },
+  {
+    name: "Health and Safety Training",
+    href: "/policies/Consent/HealthandSafetyTraining.pdf",
+  },
+  {
+    name: "Infection Control and Decontamination",
+    href: "/policies/Consent/InfectionControlandDecontamination.pdf",
+  },
   
 ];
 
