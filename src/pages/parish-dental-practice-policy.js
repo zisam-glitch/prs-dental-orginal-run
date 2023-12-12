@@ -4,45 +4,10 @@ import PageHeader from "../components/global/PageHeader";
 
 const policies = [
   {
-    name: "CCTV Policy",
-    href: "/policies/Policies/CCTV-Policy.pdf",
+    name: "Accident and Incident Reporting",
+    href: "/policies/Policies/Accident-and-Incident-Reporting.pdf",
   },
-  {
-    name: "Complaints Policy",
-    href: "/policies/Policies/Complaints-Policy.pdf",
-  },
-  {
-    name: "Failed Appointments and Short Notice Cancellations Policy",
-    href: "/policies/Policies/Failed-Appointments-and-Short-Notice-Cancellations-Policy.pdf",
-  },
-  {
-    name: "GDPR Policy",
-    href: "/policies/Policies/GDPR-Policy.pdf",
-  },
-  {
-    name: "Grievance Policy",
-    href: "/policies/Policies/Grievance-Policy.pdf",
-  },
-  {
-    name: "Neddle Stick Injury Protocol",
-    href: "/policies/Policies/Neddle-Stick-Injury-Protocol.pdf",
-  },
-  {
-    name: "Patient Deregistration Policy",
-    href: "/policies/Policies/Patient-Deregistration-Policy.pdf",
-  },
-  {
-    name: "Pest Control Policy",
-    href: "/policies/Policies/Pest-Control-Policy.pdf",
-  },
-  {
-    name: "Registration Policy",
-    href: "/policies/Policies/Registration-Policy.pdf",
-  },
-  {
-    name: "Sick Leave Policy",
-    href: "/policies/Policies/Sick-Leave-Policy.pdf",
-  },
+  
 ];
 
 const consent = [
