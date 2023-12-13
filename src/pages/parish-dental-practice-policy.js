@@ -95,6 +95,89 @@ const policies = [
     name: "Infection Control and Decontamination",
     href: "/policies/Consent/InfectionControlandDecontamination.pdf",
   },
+  {
+    name: "Laser use in Dentistry",
+    href: "/policies/Consent/LaseruseinDentistry.pdf",
+  },
+  {
+    name: "Latex Management",
+    href: "/policies/Consent/LatexManagement.pdf",
+  },
+  {
+    name: "Lone Working",
+    href: "/policies/Consent/LoneWorking.pdf",
+  },
+  {
+    name: "Maintenance",
+    href: "/policies/Consent/Maintenance.pdf",
+  },
+  {
+    name: "Neddle Stick Injury Protocol",
+    href: "/policies/Consent/Neddle-Stick-Injury-Protocol.pdf",
+  },
+  {
+    name: "Patient Deregistration Policy",
+    href: "/policies/Consent/Patient-Deregistration-Policy.pdf",
+  },
+  {
+    name: "Pest Control Policy",
+    href: "/policies/Consent/Pest-Control-Policy.pdf",
+  },
+  {
+    name: "Premises and Equipment Policy",
+    href: "/policies/Consent/PremisesandEquipmentPolicy.pdf",
+  },
+  {
+    name: "Registration-Policy",
+    href: "/policies/Consent/Registration-Policy.pdf",
+  },{
+    name: "Risk Assessment",
+    href: "/policies/Consent/RiskAssessment.pdf",
+  },
+  {
+    name: "Rubber Dam Use",
+    href: "/policies/Consent/RubberDamUse.pdf",
+  },
+  {
+    name: "Security",
+    href: "/policies/Consent/Security.pdf",
+  },
+  {
+    name: "Sedation in Dental Procedures",
+    href: "/policies/Consent/SedationinDentalProcedures.pdf",
+  },
+  {
+    name: "Sharps and Needlestick Injury Management",
+    href: "/policies/Consent/SharpsandNeedlestickInjuryManagement.pdf",
+  },
+  {
+    name: "Sick Leave Policy",
+    href: "/policies/Consent/Sick-Leave-Policy.pdf",
+  },
+  {
+    name: "Single Use Equipment",
+    href: "/policies/Consent/SingleUseEquipment.pdf",
+  },
+  {
+    name: "Transport",
+    href: "/policies/Consent/Transport.pdf",
+  },
+  {
+    name: "Use of Amalgam and Matrix Band",
+    href: "/policies/Consent/UseofAmalgamandMatrixBand.pdf",
+  },
+  {
+    name: "Visiting Contractors",
+    href: "/policies/Consent/VisitingContractors.pdf",
+  },
+  {
+    name: "Window Security",
+    href: "/policies/Consent/WindowSecurity.pdf",
+  },
+  {
+    name: "Workplace Environment",
+    href: "/policies/Consent/WorkplaceEnvironment.pdf",
+  },
   
 ];
 
