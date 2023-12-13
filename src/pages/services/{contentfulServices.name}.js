@@ -12,7 +12,7 @@ import GeneralDentistry from "../../components/services/GeneralDentistry/ClearAl
 import Cosmetic from "../../components/services/Cosmetic/ClearAligners";
 import { GatsbyImage } from "gatsby-plugin-image";
 import EmergencyDentistry from "../../components/services/EmergencyDentistry/EmergencyDentistry";
-import NSH from "../register"
+import NSH from "../../components/regester.jsx"
 
 const ServicesSinglePage = ({ data }) => {
   const { name, image, description } = data.contentfulServices;
