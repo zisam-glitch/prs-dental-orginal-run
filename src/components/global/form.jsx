@@ -40,7 +40,7 @@ export const ContactUs = () => {
   return (
     <Spin spinning={Loading}>
       <form ref={form} onSubmit={sendEmail}>
-        <div className="g">
+        <div className="md:flex md:gap-20 md:px-0 md:py-24 md:max-w-[1280px] grid px-10">
           <div className="pasent">
             <h2 className="gh2">Patient Details:</h2>
             <h1 className="gh1">Full Name:</h1>
