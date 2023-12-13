@@ -20,9 +20,9 @@ export default function App() {
         mousewheel={true}
         keyboard={true}
         spaceBetween={30}
-        slidesPerView={6}
+        slidesPerView={auto}
         modules={[Autoplay, Mousewheel, Keyboard]}
-        className="mySwiper"
+        className="mySwiper "
       >
         <SwiperSlide className="flex justify-center">
           <img
