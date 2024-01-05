@@ -21,8 +21,22 @@ export default function App() {
         keyboard={true}
         spaceBetween={30}
         slidesPerView={6}
+        breakpoints={{
+          280: {
+            slidesPerView: 2,
+            spaceBetween: 20,
+          },
+          768: {
+            slidesPerView: 4,
+            spaceBetween: 40,
+          },
+          1024: {
+            slidesPerView: 6,
+            spaceBetween: 50,
+          },
+        }}
         modules={[Autoplay, Mousewheel, Keyboard]}
-        className="mySwiper hidden md:block "
+        className="mySwiper"
       >
         <SwiperSlide className="flex justify-center">
           <img
@@ -74,7 +88,7 @@ export default function App() {
           />
         </SwiperSlide>
       </Swiper>
-      <Swiper
+      {/* <Swiper
         autoplay={{
           delay: 2000,
         }}
@@ -135,7 +149,7 @@ export default function App() {
             alt="img-class"
           />
         </SwiperSlide>
-      </Swiper>
+      </Swiper> */}
     </>
   );
 }
