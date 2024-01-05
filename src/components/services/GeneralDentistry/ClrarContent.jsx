@@ -74,8 +74,21 @@ const ClearAlignersBaner = () => {
       </div>
 
       <Pricing title="Our Root Canal Prices" services={rootCanalPrices} />
+      <div>
+        <iframe
+          className="w-full"
+          height="600px"
+          src="https://www.youtube.com/embed/jJaPPNv8fVM?si=mAdEPB2X4xENA1Zk"
+          title="About Parish Dental"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
+      </div>
       <Pricing title="Our White Filling Prices" services={whiteFillingPrices} />
       <Pricing title="Our Extraction Prices" services={extractionPrices} />
+
+      
 
       <div className="tab1 pb-14">
         <h1 className="blue text-3xl  t-style-2	pb-8">
@@ -191,7 +204,7 @@ const ClearAlignersBaner = () => {
       <div className="tab1 pt-16">
         <h1 className="blue text-3xl t-style-2	pb-6">Educational Videos</h1>
         <div className="grid md:grid-cols-2 gap-4">
-        <iframe
+          <iframe
             className="w-full"
             height="300px"
             src="https://www.youtube.com/embed/jJaPPNv8fVM?si=mAdEPB2X4xENA1Zk"
