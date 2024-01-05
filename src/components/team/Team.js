@@ -59,7 +59,7 @@ const Team = () => {
               name={"Dr Pavan Amar Singh Bhogal MBA"}
               imageWithUrl={true}
               image={
-                "https://res.cloudinary.com/db1i46uiv/image/upload/v1697918420/WhatsApp_Image_2023-10-22_at_01.49.06_80aa571f_oaukua.jpg"
+                "https://res.cloudinary.com/db1i46uiv/image/upload/v1704450120/Picture1_5_w9mspe.png"
               }
               position={"Founder"}
               gdc={"273704"}
